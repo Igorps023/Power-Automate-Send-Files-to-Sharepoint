@@ -14,4 +14,17 @@ Steps
 4) Content data inside the File[0] is converted to binary.
 5) A new file is created with the desired name and placed in a Sharepoint Folder.
 
+Images
+Image 1 - Complete Workflow
+Image 2 - Step2 Config
+Image 3 - Step3 Config
+Image 4 - Step4 Config
+
+Image 1
 ![image](https://user-images.githubusercontent.com/98396618/234409767-36bd88f8-ae1c-49ef-af1f-fd4dc494dcbd.png)
+Image 2
+![image](https://user-images.githubusercontent.com/98396618/234411104-77ed8b9e-9b76-465f-a8ed-fe1307b346c0.png)
+Image 3
+![image](https://user-images.githubusercontent.com/98396618/234411283-27f575ab-f7f3-4fd9-8f0e-f4ca50c5bc50.png)
+Image 4
+![image](https://user-images.githubusercontent.com/98396618/234411421-e9406603-a3d2-4cb0-ae8e-50ef13fd9602.png)
