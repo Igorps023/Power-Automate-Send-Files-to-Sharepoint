@@ -1,5 +1,5 @@
 # Power-Automate-Send-Files-to-Sharepoint
-Send Files to Automatically to Sharepoint via Power Automate Desktop
+Automatically send Files to Sharepoint via Power Automate Desktop/Online
 
 This workflow basically shows a way to send new files that are being saved in a server 'On-premise' to a Sharepoint Folder.
 In this case, the files were generated daily and sent after 'order by' DESC as Most Recent File.
