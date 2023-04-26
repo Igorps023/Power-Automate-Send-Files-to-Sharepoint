@@ -1,4 +1,6 @@
 # Power-Automate-Send-Files-to-Sharepoint
+![image](https://user-images.githubusercontent.com/98396618/234723223-e8859ee3-54b6-41a5-84ee-a2b774bfc08b.png)
+
 Automatically send Files to Sharepoint via Power Automate Desktop/Online
 
 This workflow basically shows a way to send new files that are being saved in a server 'On-premise' to a Sharepoint Folder.
@@ -15,6 +17,7 @@ Steps
 5) A new file is created with the desired name and placed in a Sharepoint Folder.
 
 Images
+
 Image 1 - Complete Workflow;
 Image 2 - Step2 Config;
 Image 3 - Step3 Config;
